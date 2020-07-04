@@ -50,7 +50,7 @@ def get_filters():
             break
         else:
             print("Day not found. Please input: all, monday, tuesday, wednseday,thursday,friday,saturday,sunday")
-
+            break
     print('-'*40)
     return city, month, day
 
