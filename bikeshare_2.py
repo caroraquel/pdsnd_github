@@ -186,7 +186,7 @@ def display_raw_data(df):
             return
         next = next + 3
         print(df.iloc[next:next+3])
-# if more than 5 added information will be missed.
+
 def main():
     while True:
         city, month, day = get_filters()
