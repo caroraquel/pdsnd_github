@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+Date of the project 7/4/20
 
 ### Project Title
-Replace the Project Title
+Final Github BikeDatashare
 
 ### Description
-Describe what your project is about and what it does
+The project is about analyzing biking data from Washington, NYC and Chicago.
 
 ### Files used
-Include the files used
+Chickago.CSV
+New_York.CSV
+Washington.CSV
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+I would like to thank Udacity and the great community of GitHub for helping me develop my Github Skills. Specially a big thanks to https://github.com/beingjainparas/Udacity-Explore_US_Bikeshare_Data/blob/master/bikeshare_2.py
