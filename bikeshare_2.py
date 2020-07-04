@@ -184,8 +184,8 @@ def display_raw_data(df):
         view_raw_data = input('\nWould you like to see the next rows of raw data? Say yes! Enter yes or no.\n')
         if view_raw_data.lower() != 'yes':
             return
-        next = next + 3
-        print(df.iloc[next:next+3])
+        next = next + 5
+        print(df.iloc[next:next+5])
 
 def main():
     while True:
