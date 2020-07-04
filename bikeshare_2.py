@@ -44,7 +44,7 @@ def get_filters():
 
     day = ''
     while day not in DAY_DATA:
-        day = input("\nWhich day ? Monday, Tuesday... Maybe all?\n").lower()
+        day = input("\nWhich day would you be interested in: Monday, Tuesday... Maybe all?\n").lower()
         if day in DAY_DATA:
             print(day.upper(), " it is! great idea")
             break
